@@ -1,1 +1,2 @@
 # Module1-Challenge
+## This project was about making the code for a website called Horiseon easier to read and work with. Along with the it involved fixing some elements so that they would lead to the right places on the page. All of these things helped it so that it would be better optimized for search engines.
